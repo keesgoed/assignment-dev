@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/keesg/OneDrive/Documenten/NetBeansProjects/INFDEV02-3/Assignment/2016-2017/Java/opdr1/src/factory/IkeaFactory.java</file>
+            <file>file:/C:/Users/keesg/OneDrive/Documenten/NetBeansProjects/INFDEV02-3/Assignment/2016-2017/Java/opdr1/src/container/IContainer.java</file>
+            <file>file:/C:/Users/keesg/OneDrive/Documenten/NetBeansProjects/INFDEV02-3/Assignment/2016-2017/Java/opdr1/src/truck/VolvoTruck.java</file>
+            <file>file:/C:/Users/keesg/OneDrive/Documenten/NetBeansProjects/INFDEV02-3/Assignment/2016-2017/Java/opdr1/src/stateMachine/IStateMachine.java</file>
+            <file>file:/C:/Users/keesg/OneDrive/Documenten/NetBeansProjects/INFDEV02-3/Assignment/2016-2017/Java/opdr1/src/Game/GameState.java</file>
+            <file>file:/C:/Users/keesg/OneDrive/Documenten/NetBeansProjects/INFDEV02-3/Assignment/2016-2017/Java/opdr1/src/truck/ITruck.java</file>
+            <file>file:/C:/Users/keesg/OneDrive/Documenten/NetBeansProjects/INFDEV02-3/Assignment/2016-2017/Java/opdr1/src/Game/Game.java</file>
+            <file>file:/C:/Users/keesg/OneDrive/Documenten/NetBeansProjects/INFDEV02-3/Assignment/2016-2017/Java/opdr1/src/factory/MiningFactory.java</file>
+            <file>file:/C:/Users/keesg/OneDrive/Documenten/NetBeansProjects/INFDEV02-3/Assignment/2016-2017/Java/opdr1/src/component/Drawable.java</file>
+            <file>file:/C:/Users/keesg/OneDrive/Documenten/NetBeansProjects/INFDEV02-3/Assignment/2016-2017/Java/opdr1/src/component/Updateable.java</file>
+            <file>file:/C:/Users/keesg/OneDrive/Documenten/NetBeansProjects/INFDEV02-3/Assignment/2016-2017/Java/opdr1/src/container/ProductContainer.java</file>
+            <file>file:/C:/Users/keesg/OneDrive/Documenten/NetBeansProjects/INFDEV02-3/Assignment/2016-2017/Java/opdr1/src/factory/IFactory.java</file>
+            <file>file:/C:/Users/keesg/OneDrive/Documenten/NetBeansProjects/INFDEV02-3/Assignment/2016-2017/Java/opdr1/src/component/IComponent.java</file>
+            <file>file:/C:/Users/keesg/OneDrive/Documenten/NetBeansProjects/INFDEV02-3/Assignment/2016-2017/Java/opdr1/src/container/OreContainer.java</file>
+            <file>file:/C:/Users/keesg/OneDrive/Documenten/NetBeansProjects/INFDEV02-3/Assignment/2016-2017/Java/opdr1/src/stateMachine/Done.java</file>
+            <file>file:/C:/Users/keesg/OneDrive/Documenten/NetBeansProjects/INFDEV02-3/Assignment/2016-2017/Java/opdr1/src/stateMachine/IAction.java</file>
+        </group>
+    </open-files>
+</project-private>
